@@ -28,12 +28,22 @@ enter=enter
 000+.=w
 5+6=y
 
+8+9=r
+7=q
+4+1=m
+3+6=d
+2+5=f
+
+shift=
+
 0+1+4=I
 0+1+5=L
 
 7+8=backspace
 *+-=.
 *+/=,
+7=q
+8+9=r
 
 whole bottom row singles will be space bar
 
