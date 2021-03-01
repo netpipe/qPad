@@ -31,6 +31,13 @@ enter=enter
 0+1+4=I
 0+1+5=L
 
+7+8=backspace
+*+-=.
+*+/=,
+
+whole bottom row singles will be space bar
+
+
 todo features
 add audio for key pressing
 gui features
