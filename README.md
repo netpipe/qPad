@@ -33,6 +33,7 @@ enter=enter
 4+1=m
 3+6=d
 2+5=f
+3+.=C
 
 shift=
 
