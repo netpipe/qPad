@@ -6,6 +6,10 @@
 #include <QMenu>
 #include "nativeeventfilter.h"
 
+
+
+
+
 namespace Ui {
 class MainWindow;
 }
@@ -17,6 +21,8 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+
+//    void enumerateXWindows(Display *display, Window rootWindow);
 
     void createSystemTrayIcon();
     bool deleteSystemTrayIcon();
@@ -31,6 +37,10 @@ private:
     NativeEventFilter *nativeEventFilter;
     QSystemTrayIcon* m_system_tray_icon;
 //    QMenu*           m_tray_menu;
+
+
+
+
 };
 
 #endif // MAINWINDOW_H
