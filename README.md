@@ -55,3 +55,6 @@ gui features
 loadable mappings
 key delay when holding
 
+keymap for brainfu*k programming 2 rows of 4 keys
+keymap for blender
+
