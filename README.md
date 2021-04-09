@@ -46,6 +46,11 @@ shift=
 7=q
 8+9=r
 
+
+
+update
+9=j 000=i 3=s 1+2=v 5+6=k  1+4 =n
+
 whole bottom row singles will be space bar
 
 
