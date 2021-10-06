@@ -182,3 +182,20 @@ void MainWindow::onExitApplication()
 //    Input.ki.wVk = vkKeyCode;
 //    SendInput(1, &Input, sizeof(INPUT));
 //}
+
+
+     /*
+     //https://www.qtcentre.org/threads/62572-send-key-even-to-other-aplication
+     //#include "windows.h"
+     HWND mywindow; uint keyCode;
+     QString str;
+        str = 'notepad';
+        wchar_t* name = new wchar_t[str.length() + 1];
+        str.toWCharArray(name);
+        mywindow = FindWindow(name,0);
+        SetForegroundWindow(mywindow);
+        keyCode = VK_F1; // F1 key
+        //uint keyCode = PP_DATA.key;
+        PostMessage(mywindow, WM_KEYDOWN, keyCode, 0); // key down
+        PostMessage(mywindow, WM_KEYUP, keyCode, 0); // key up
+*/

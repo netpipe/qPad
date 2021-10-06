@@ -46,6 +46,11 @@ shift=
 7=q
 8+9=r
 
+
+
+update
+9=j 000=i 3=s 1+2=v 5+6=k  1+4 =n
+
 whole bottom row singles will be space bar
 
 
@@ -54,4 +59,7 @@ add audio for key pressing
 gui features
 loadable mappings
 key delay when holding
+
+keymap for brainfu*k programming 2 rows of 4 keys
+keymap for blender
 
